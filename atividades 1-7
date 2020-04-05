@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+	<head>
+    	<title> Rafael Cavalcante</title>
+    </head>
+
+	<body>
+
+		<h1>Noticia da pagina</h1>
+        <h1>Pragrafo 1</h1>
+		<p>Minha avaliação da aula hoje.</p>
+        <h1>Pragrafo 2</h1>
+		<p>Saudação para todos que lerem sua página.</p>
+        <h1>Pragrafo 3</h1>
+		<p>Descrição fisica da UniBH.</p>
+        <h1>Pragrafo 4</h1>
+        <p>Descrição da sala de aula (virtual) que está acontecendo a aula.</p>
+        <h1>Pragrafo 5</h1>
+        <p>Relação dos nomes dos coleguas presentes (virtualmente).</p>
+        <h3>Batatinha quando nasce.</h3>
+        <p>Batatinha quando nasce espalha a rama pelo chão.</p>
+        <p>Menininha quando dorme põe a mão no coração.</p>
+        <p>Sou pequenininha do tamanho de um botão,</p>
+        <p>Carrego papai no bolso e mamãe no coração.</p>
+        <p>O bolso furou e o papai caiu no chão,</p>
+        <p>Mamãe que é mais querida ficou no coração.</p>
+        <h3>listas</h3>        
+        <ul>
+        	<li>João Silva</li>
+            <li>Maria Silva</li>
+        </ul>
+        <ul>
+        	<li>João Silva Jr</li>
+            <li>Maria Aparecida Silva</li>
+            <li>José Silva</li>
+        </ul>
+       	<ol>
+        	<li>Preto</li>
+            <li>Branco</li>
+            <li>Cinza</li>
+        </ol>
+        <p>rafael.cavalcante.es@gmail.com</p>
+</body>
+</html>
