@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+    	<meta name="author" content="Rafael Cavalcante">
+        <meta name="description" content="Notícias">
+        <meta name="keywords" content="Notícias">
+        <meta charset="UTF-8">
+    	<title>Notícias</title>
+        
+    </head>
+
+	<body>
+		<header>Notícias</header>
+		<h1>Notícia da pagina</h1>
+        <h1>Pragrafo 1</h1>
+		<p>Minha avaliação da aula hoje.</p>
+        <h1>Pragrafo 2</h1>
+		<p>Saudação para todos que lerem sua página.</p>
+        <h1>Pragrafo 3</h1>
+		<p>Descrição fisica da UniBH.</p>
+        <h1>Pragrafo 4</h1>
+        <p>Descrição da sala de aula (virtual) que está acontecendo a aula.</p>
+        <h1>Pragrafo 5</h1>
+        <p>Relação dos nomes dos coleguas presentes (virtualmente).</p>
+        
+</body>
+</html>
