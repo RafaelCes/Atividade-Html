@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<head>
+    	<meta name="author" content="Rafael Cavalcante">
+        <meta name="description" content="Imagens">
+        <meta name="keywords" content="Flores">
+        <meta charset="UTF-8">
+    	<title>Imagens</title>
+    </head>
+	<body>
+		<img src="https://s3-sa-east-1.amazonaws.com/uploads-astrocentro/blog/wp-content/uploads/2017/10/14154209/flores-e-seus-significados.jpg" alt="Flores amarelas" width="460" height="345">
+        
+        <img src="https://www.diariodoscampos.com.br/fl/normal/1545424782-5c1d4fbe0d329_imoveis_azaleia.jpg?node_id=175810" alt="Flores rosas" width="460" height="345">
+        
+        <img src="857ac35a-0d16-4555-ad48-776bc1fe7316.jpg" alt="Flores brancas" width="460" height="345">
+
+
+</body>
+</html>
