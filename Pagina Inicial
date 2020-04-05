@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+	<head>
+    	<title>Rafael Cavalcante </title>
+    </head>
+
+	<body>
+    	<ul>
+    		<li>
+            	<a href="https://www.w3schools.com/code/tryit.asp?filename=GDJGVOWREO1A"target="_blank" > Notícias </a>
+            </li>
+        	<li>
+            	<a href="https://www.w3schools.com/code/tryit.asp?filename=GDJGW7LQ2CJ0"target="_blank" > Poema </a>
+            </li>
+            <li>
+            	<a href="https://www.w3schools.com/code/tryit.asp?filename=GDJGX1YS5ND0"target="_blank" > Listas </a>
+            </li>
+            <li>
+            	<a href="https://www.w3schools.com/code/tryit.asp?filename=GDJGXMCJY8PH"target="_blank" > E-mail </a>
+            </li>   
+              <li>
+            	<a href="https://www.w3schools.com/code/tryit.asp?filename=GDJFAHK51NQQ"target="_blank" > Imagens </a>
+            </li>
+            <li>
+            	<a href="https://www.w3schools.com/code/tryit.asp?filename=GDJGTHCL3RD6"target="_blank" > Formulário </a>
+            </li>
+		</ul> 
+    
+        <nav>
+        <a href="https://www.w3schools.com/code/tryit.asp?filename=GDJGVOWREO1A"target="_blank" > Notícias </a> |
+        <a href="https://www.w3schools.com/code/tryit.asp?filename=GDJGW7LQ2CJ0"target="_blank" > Poema </a> |
+        <a href="https://www.w3schools.com/code/tryit.asp?filename=GDJGX1YS5ND0"target="_blank" > Listas </a> |
+        <a href="https://www.w3schools.com/code/tryit.asp?filename=GDJGXMCJY8PH"target="_blank" > E-mail </a> |
+        <a href="https://www.w3schools.com/code/tryit.asp?filename=GDJFAHK51NQQ"target="_blank" > Imagens </a> |
+        <a href="https://www.w3schools.com/code/tryit.asp?filename=GDJGTHCL3RD6"target="_blank" > Formulário </a>
+        </nav>
+</body>
+</html>
