@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+    	<meta name="author" content="Rafael Cavalcante">
+        <meta name="description" content="Listas">
+        <meta name="keywords" content="Lista,Preferencias,parentes,Irmãos,Irmãs,Cores">
+        <meta charset="UTF-8">
+    	<title>Listas</title>
+    </head>
+
+	<body>
+
+		
+        <h3>listas</h3>        
+        <ul>
+        	<li>João Silva</li>
+            <li>Maria Silva</li>
+        </ul>
+        <ul>
+        	<li>João Silva Jr</li>
+            <li>Maria Aparecida Silva</li>
+            <li>José Silva</li>
+        </ul>
+       	<ol>
+        	<li>Preto</li>
+            <li>Branco</li>
+            <li>Cinza</li>
+        </ol>
+</body>
+</html>
